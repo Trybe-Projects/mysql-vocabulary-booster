@@ -293,7 +293,7 @@ Exibe todos os produtos que já foram pedidos, que possuem uma média de quantid
 
 2. A segunda coluna deve possuir o alias "**Mínima**" e exibir a **quantidade mínima** que já foi pedida desse produto.
 
-3. A segunda coluna deve possuir o alias "**Máxima**" e exibir a **quantidade máxima** que já foi pedida desse produto.
+3. A terceira coluna deve possuir o alias "**Máxima**" e exibir a **quantidade máxima** que já foi pedida desse produto.
 
 4. A quarta coluna deve deve possuir o alias "**Média**" e exibir a **média de quantidade nos pedidos** deste produto, arredondada para duas casas decimais.
 
