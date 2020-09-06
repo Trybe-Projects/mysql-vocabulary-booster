@@ -28,5 +28,3 @@ WHERE jh.EMPLOYEE_ID = e.EMPLOYEE_ID
 ORDER BY Departamento ASC, Cargo ASC;
 END $$
 DELIMITER ;
-
-CALL exibir_historico_completo_por_funcionario('NKOCHHAR');
